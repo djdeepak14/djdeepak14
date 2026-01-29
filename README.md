@@ -41,7 +41,7 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
+
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakKhanal&show_icons=true)
 
@@ -58,4 +58,4 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ## 💬 Connect with Me
 - Email: [djdeepakdj14@gmail.com](mailto:djdeepakdj14@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/deepak-khanal-419266252/](https://www.linkedin.com/in/deepak-khanal-419266252/)
-- Portfolio / Projects: Coming soon!
+- Portfolio / Projects: Frontend and backend developing #API fetching!
