@@ -20,7 +20,7 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![RAPID](https://img.shields.io/badge/-RAPID-FF6600?style=for-the-badge) 
+![RAPID](https://img.shields.io/badge/-RAPID-FF6600?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=MATLAB&logoColor=white)
 
 ### Frameworks & Libraries
@@ -39,17 +39,15 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ![PLC Programming](https://img.shields.io/badge/-PLC%20Programming-FF6600?style=for-the-badge)
 
 ---
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=djdeepak14&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djdeepak14&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djdeepak14&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=djdeepak14&theme=radical)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/djdeepak14&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)
 
-![Visitor Count](https://profile-counter.glitch.me/djdeepak14/count.svg)
-
-
+---
 
 ## 💬 Connect with Me
 - Email: [djdeepakdj14@gmail.com](mailto:djdeepakdj14@gmail.com)
