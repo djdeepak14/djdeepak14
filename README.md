@@ -41,13 +41,13 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ---
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DeepakKhanal&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=djdeepak14&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKhanal&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djdeepak14&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DeepakKhanal&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=djdeepak14&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/DeepakKhanal/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/djdeepak14/count.svg)
 
 
 
