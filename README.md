@@ -43,8 +43,11 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djdeepak14&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djdeepak14&layout=compact&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=djdeepak14&theme=radical)
+
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/djdeepak14&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)
 
 ---
