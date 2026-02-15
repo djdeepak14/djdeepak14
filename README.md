@@ -42,18 +42,18 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 
 ## 📊 GitHub Stats
 
+<!-- General stats -->
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakKhanal&show_icons=true&theme=radical)
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakKhanal&show_icons=true)
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKhanal&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKhanal&layout=compact)
+<!-- Streak stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=DeepakKhanal&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=DeepakKhanal)
-
+<!-- Visitor count -->
 ![Visitor Count](https://profile-counter.glitch.me/DeepakKhanal/count.svg)
 
-
-
----
 
 ## 💬 Connect with Me
 - Email: [djdeepakdj14@gmail.com](mailto:djdeepakdj14@gmail.com)
