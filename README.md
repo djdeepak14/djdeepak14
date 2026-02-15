@@ -39,20 +39,16 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ![PLC Programming](https://img.shields.io/badge/-PLC%20Programming-FF6600?style=for-the-badge)
 
 ---
-
 ## 📊 GitHub Stats
 
-<!-- General stats -->
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakKhanal&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=DeepakKhanal&show_icons=true&theme=radical)
 
-<!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKhanal&layout=compact&theme=radical)
 
-<!-- Streak stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=DeepakKhanal&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=DeepakKhanal&theme=radical)
 
-<!-- Visitor count -->
 ![Visitor Count](https://profile-counter.glitch.me/DeepakKhanal/count.svg)
+
 
 
 ## 💬 Connect with Me
