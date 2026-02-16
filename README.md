@@ -50,4 +50,4 @@ I enjoy building projects that combine **software and hardware**, and I love lea
 ## 💬 Connect with Me
 - Email: [djdeepakdj14@gmail.com](mailto:djdeepakdj14@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/deepak-khanal-419266252/](https://www.linkedin.com/in/deepak-khanal-419266252/)
-- Portfolio / Projects: [Frontend and backend developing #API fetching!](https://portfolio-git-main-djdeepak14s-projects.vercel.app/)
+- Portfolio / Projects:(https://portfolio-git-main-djdeepak14s-projects.vercel.app/)
